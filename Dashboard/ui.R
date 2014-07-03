@@ -1,5 +1,3 @@
-
-
 shinyUI(navbarPage('My Dashboard',
         tabPanel('SideBar Layout',
                  sidebarLayout(
