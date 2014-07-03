@@ -14,7 +14,3 @@ shinyUI(navbarPage('My Dashboard',
         tabPanel('Tab 2'),
         tabPanel('Tab 3')
 ))
-<<<<<<< HEAD
-
-=======
->>>>>>> 4fab8cdc01c92103afd4fba7c1ce767d1b82d93d
