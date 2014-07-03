@@ -4,3 +4,4 @@ shinyServer(function(input, output) {
                 rep(paste("You have chosen", input$daterange[1], "to", input$daterange[2]), input$numbers)
                 })
 })
+

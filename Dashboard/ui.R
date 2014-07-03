@@ -16,3 +16,4 @@ shinyUI(navbarPage('My Dashboard',
         tabPanel('Tab 2'),
         tabPanel('Tab 3')
 ))
+
